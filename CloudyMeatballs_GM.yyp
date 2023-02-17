@@ -9,7 +9,7 @@
     "children": [],
     "name": "Default",
   },
-  "defaultScriptType": 0,
+  "defaultScriptType": 1,
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy","order":0,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy","order":0,},
@@ -38,6 +38,8 @@
     {"id":{"name":"obj_house","path":"objects/obj_house/obj_house.yy",},"order":0,},
     {"id":{"name":"obj_scoreboard","path":"objects/obj_scoreboard/obj_scoreboard.yy",},"order":0,},
     {"id":{"name":"obj_meatball","path":"objects/obj_meatball/obj_meatball.yy",},"order":0,},
+    {"id":{"name":"obj_cloud","path":"objects/obj_cloud/obj_cloud.yy",},"order":0,},
+    {"id":{"name":"obj_riot","path":"objects/obj_riot/obj_riot.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "RoomOrderNodes": [
