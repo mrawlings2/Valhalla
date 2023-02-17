@@ -31,7 +31,10 @@
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"health_dplt","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"0","varType":0,},
   ],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_village",
+    "path": "sprites/spr_village/spr_village.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

@@ -28,7 +28,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_riot",
+    "path": "sprites/spr_riot/spr_riot.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
