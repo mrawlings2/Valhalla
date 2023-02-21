@@ -17,13 +17,17 @@
   ],
   "ResourceOrderSettings": [
     {"name":"obj_skyscraper","order":4,"path":"objects/obj_skyscraper/obj_skyscraper.yy",},
+    {"name":"spr_tempMeatball","order":4,"path":"sprites/spr_tempMeatball/spr_tempMeatball.yy",},
+    {"name":"obj_riot3","order":9,"path":"objects/obj_riot3/obj_riot3.yy",},
+    {"name":"obj_riot2","order":8,"path":"objects/obj_riot2/obj_riot2.yy",},
     {"name":"obj_village","order":2,"path":"objects/obj_village/obj_village.yy",},
     {"name":"spr_village","order":2,"path":"sprites/spr_village/spr_village.yy",},
     {"name":"obj_house","order":3,"path":"objects/obj_house/obj_house.yy",},
     {"name":"obj_scoreboard","order":5,"path":"objects/obj_scoreboard/obj_scoreboard.yy",},
     {"name":"obj_meatball","order":1,"path":"objects/obj_meatball/obj_meatball.yy",},
     {"name":"obj_cloud","order":6,"path":"objects/obj_cloud/obj_cloud.yy",},
-    {"name":"obj_riot","order":7,"path":"objects/obj_riot/obj_riot.yy",},
+    {"name":"spr_cloudMaker","order":3,"path":"sprites/spr_cloudMaker/spr_cloudMaker.yy",},
+    {"name":"obj_riot1","order":7,"path":"objects/obj_riot1/obj_riot1.yy",},
     {"name":"spr_cloud","order":1,"path":"sprites/spr_cloud/spr_cloud.yy",},
   ],
 }

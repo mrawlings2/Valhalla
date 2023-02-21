@@ -1,3 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
-obj_cloudMaker.health = 100
+canShoot = true // Set canShoot to true
+alarm_set(0, 15) // Reset alarm

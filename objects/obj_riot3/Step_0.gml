@@ -1,3 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-obj_cloudMaker.health = 100
+if(obj_skyscraper.health > 0) {
+	instance_destroy(obj_riot3)
+}
