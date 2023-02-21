@@ -29,7 +29,7 @@
   "IncludedFiles": [],
   "isEcma": false,
   "MetaData": {
-    "IDEVersion": "2023.1.1.62",
+    "IDEVersion": "2023.1.0.58",
   },
   "resources": [
     {"id":{"name":"obj_skyscraper","path":"objects/obj_skyscraper/obj_skyscraper.yy",},"order":4,},
