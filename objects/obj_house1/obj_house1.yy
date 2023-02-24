@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_house",
+  "name": "obj_house1",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,},
@@ -9,15 +9,15 @@
   ],
   "managed": true,
   "overriddenProperties": [
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_village","path":"objects/obj_village/obj_village.yy",},"propertyId":{"name":"health_dplt","path":"objects/obj_village/obj_village.yy",},"value":"20",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_village1","path":"objects/obj_village1/obj_village1.yy",},"propertyId":{"name":"health_dplt","path":"objects/obj_village1/obj_village1.yy",},"value":"20",},
   ],
   "parent": {
     "name": "Objects",
     "path": "folders/Objects.yy",
   },
   "parentObjectId": {
-    "name": "obj_village",
-    "path": "objects/obj_village/obj_village.yy",
+    "name": "obj_village1",
+    "path": "objects/obj_village1/obj_village1.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
