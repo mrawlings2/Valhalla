@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_village",
-  "bbox_bottom": 253,
-  "bbox_left": 4,
-  "bbox_right": 251,
-  "bbox_top": 8,
+  "bbox_bottom": 166,
+  "bbox_left": 2,
+  "bbox_right": 123,
+  "bbox_top": 45,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"1dee1462-292b-4e42-9729-94799643c809",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"2fdec812-4f7f-4935-89c7-c71392495ca9",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 256,
+  "height": 168,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"5a3cd414-6c74-4558-8acd-4cb23ad56f4d","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"9905e9e1-fb0c-42b6-9f93-8e893c88ee8f","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"1dee1462-292b-4e42-9729-94799643c809","path":"sprites/spr_village/spr_village.yy",},},},"Disabled":false,"id":"9ae77cdb-d751-4bcb-a997-c8572ad6c002","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"2fdec812-4f7f-4935-89c7-c71392495ca9","path":"sprites/spr_village/spr_village.yy",},},},"Disabled":false,"id":"4394ff7e-7fc3-4de9-82bb-88cc2334fa7f","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 256,
+  "width": 128,
 }
