@@ -1,19 +1,22 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_village2",
+  "name": "obj_houseRiot4",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_cloudMaker","path":"objects/obj_cloudMaker/obj_cloudMaker.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
   ],
   "managed": true,
-  "overriddenProperties": [],
+  "overriddenProperties": [
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_villageRiot1","path":"objects/obj_villageRiot1/obj_villageRiot1.yy",},"propertyId":{"name":"riot_damage","path":"objects/obj_villageRiot1/obj_villageRiot1.yy",},"value":"20",},
+  ],
   "parent": {
     "name": "Objects",
     "path": "folders/Objects.yy",
   },
   "parentObjectId": {
-    "name": "obj_village1",
-    "path": "objects/obj_village1/obj_village1.yy",
+    "name": "obj_villageRiot1",
+    "path": "objects/obj_villageRiot1/obj_villageRiot1.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
@@ -31,8 +34,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_village",
-    "path": "sprites/spr_village/spr_village.yy",
+    "name": "spr_riot",
+    "path": "sprites/spr_riot/spr_riot.yy",
   },
   "spriteMaskId": null,
   "visible": true,
