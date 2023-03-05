@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_tempMeatball",
+    "path": "sprites/spr_tempMeatball/spr_tempMeatball.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
