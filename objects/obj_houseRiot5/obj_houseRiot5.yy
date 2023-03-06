@@ -5,10 +5,13 @@
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_cloudMaker","path":"objects/obj_cloudMaker/obj_cloudMaker.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":1,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_block1","path":"objects/obj_block1/obj_block1.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_block5","path":"objects/obj_block5/obj_block5.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_villageRiot1","path":"objects/obj_villageRiot1/obj_villageRiot1.yy",},"propertyId":{"name":"riot_damage","path":"objects/obj_villageRiot1/obj_villageRiot1.yy",},"value":"20",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_villageRiot1","path":"objects/obj_villageRiot1/obj_villageRiot1.yy",},"propertyId":{"name":"riot_damage","path":"objects/obj_villageRiot1/obj_villageRiot1.yy",},"value":"0.7",},
   ],
   "parent": {
     "name": "Objects",

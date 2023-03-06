@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 canShoot = true
-x = clamp(x, sprite_width/2, room_width-sprite_width/2)// clamp area for cloud to travel
+x = clamp(x, sprite_width/2, room_width-sprite_width)// clamp area for cloud to travel
 y = clamp(y, sprite_height/2, room_height-sprite_height)// clamp area for cloud to travel
 
 if(x = sprite_width/2 or x = ( room_width - sprite_width/2)){hspeed = 0}// zeros out hspeed if hits border(sides)

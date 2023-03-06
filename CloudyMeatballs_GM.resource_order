@@ -47,7 +47,6 @@
     {"name":"obj_meatball","order":1,"path":"objects/obj_meatball/obj_meatball.yy",},
     {"name":"obj_houseRiot1","order":26,"path":"objects/obj_houseRiot1/obj_houseRiot1.yy",},
     {"name":"obj_cloud","order":6,"path":"objects/obj_cloud/obj_cloud.yy",},
-    {"name":"obj_riotTarget","order":22,"path":"objects/obj_riotTarget/obj_riotTarget.yy",},
     {"name":"obj_skyscraperRiot3","order":33,"path":"objects/obj_skyscraperRiot3/obj_skyscraperRiot3.yy",},
     {"name":"spr_cloudMaker","order":3,"path":"sprites/spr_cloudMaker/spr_cloudMaker.yy",},
     {"name":"obj_skyscraperRiot2","order":32,"path":"objects/obj_skyscraperRiot2/obj_skyscraperRiot2.yy",},
