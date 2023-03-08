@@ -9,7 +9,10 @@
     "name": "Objects",
     "path": "folders/Objects.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_skyscraper1",
+    "path": "objects/obj_skyscraper1/obj_skyscraper1.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,

@@ -6,7 +6,9 @@ if (happiness <= 0) and (riot_counter <= 1) { // Check if happiness is all the w
 }
 if (meatball_col >= evol) { // Check how many meatballs village has gotten
 	instance_create_layer(x, y, "Instances", obj_house3) // Upgrade to house
-	instance_destroy(obj_villageRiot3) // Destroy riot
-	instance_destroy(obj_village3) // Destroy village
-	
+	if (frameNum < 2) then 
+		frameNum += 1;
+		meatball_col = 0;
+		evol += 5;
+		health_dplt += 5;
 }

@@ -11,6 +11,7 @@
   "overriddenProperties": [
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_village1","path":"objects/obj_village1/obj_village1.yy",},"propertyId":{"name":"health_dplt","path":"objects/obj_village1/obj_village1.yy",},"value":"15",},
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_village1","path":"objects/obj_village1/obj_village1.yy",},"propertyId":{"name":"evol","path":"objects/obj_village1/obj_village1.yy",},"value":"15",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_village1","path":"objects/obj_village1/obj_village1.yy",},"propertyId":{"name":"frameNum","path":"objects/obj_village1/obj_village1.yy",},"value":"1",},
   ],
   "parent": {
     "name": "Objects",

@@ -6,7 +6,9 @@
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
   ],
   "managed": true,
-  "overriddenProperties": [],
+  "overriddenProperties": [
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_village1","path":"objects/obj_village1/obj_village1.yy",},"propertyId":{"name":"frameNum","path":"objects/obj_village1/obj_village1.yy",},"value":"2",},
+  ],
   "parent": {
     "name": "Objects",
     "path": "folders/Objects.yy",

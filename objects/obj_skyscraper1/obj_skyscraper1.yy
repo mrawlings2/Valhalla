@@ -10,6 +10,7 @@
   "managed": true,
   "overriddenProperties": [
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_village1","path":"objects/obj_village1/obj_village1.yy",},"propertyId":{"name":"health_dplt","path":"objects/obj_village1/obj_village1.yy",},"value":"25",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_village1","path":"objects/obj_village1/obj_village1.yy",},"propertyId":{"name":"frameNum","path":"objects/obj_village1/obj_village1.yy",},"value":"2",},
   ],
   "parent": {
     "name": "Objects",
