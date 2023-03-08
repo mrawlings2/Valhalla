@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_tempMeatball",
-    "path": "sprites/spr_tempMeatball/spr_tempMeatball.yy",
+    "name": "spr_village",
+    "path": "sprites/spr_village/spr_village.yy",
   },
   "spriteMaskId": null,
   "visible": true,
