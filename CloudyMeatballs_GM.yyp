@@ -69,6 +69,7 @@
     {"id":{"name":"obj_houseRiot1","path":"objects/obj_houseRiot1/obj_houseRiot1.yy",},},
     {"id":{"name":"spr_seasonsIcons","path":"sprites/spr_seasonsIcons/spr_seasonsIcons.yy",},},
     {"id":{"name":"obj_cloud","path":"objects/obj_cloud/obj_cloud.yy",},},
+    {"id":{"name":"StartMenu","path":"rooms/StartMenu/StartMenu.yy",},},
     {"id":{"name":"obj_skyscraperRiot3","path":"objects/obj_skyscraperRiot3/obj_skyscraperRiot3.yy",},},
     {"id":{"name":"spr_cloudMaker","path":"sprites/spr_cloudMaker/spr_cloudMaker.yy",},},
     {"id":{"name":"obj_skyscraperRiot2","path":"objects/obj_skyscraperRiot2/obj_skyscraperRiot2.yy",},},
@@ -85,6 +86,7 @@
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"StartMenu","path":"rooms/StartMenu/StartMenu.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},

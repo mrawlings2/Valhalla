@@ -5,9 +5,7 @@ if(obj_village4.happiness <= 0) { //Check if village4 has no happiness
 	direction = point_direction(x, y, obj_cloudMaker.x, obj_cloudMaker.y) // Set direction to the cloud maker
 	speed = 0.5 // Set speed of the riot
 }
-if(not instance_exists(obj_village4)) { // Check if village exists
-	instance_destroy(obj_villageRiot4) // Destroy riot
-}
+
 
 if(not place_empty(x, y, obj_cloudMaker)) { // Check for collision with cloudmaker
 	if (deal_damage == true) { // Check if riot can attack
