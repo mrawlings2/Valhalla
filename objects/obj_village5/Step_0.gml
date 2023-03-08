@@ -8,3 +8,6 @@ if (meatball_col >= evol) { // Check how many meatballs village has gotten
 	instance_create_layer(x, y, "Instances", obj_house5) // Upgrade to house
 	instance_destroy(obj_village5) // Destroy village
 }
+if (happiness <= 0) and instance_exists(obj_village5) { // Check if happiness is at 0
+	happiness = 0 // Set happiness to 0
+}

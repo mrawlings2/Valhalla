@@ -10,4 +10,8 @@ if (meatball_col >= evol) { // Check how many meatballs village has gotten
 	instance_destroy(obj_village1) // Destroy village
 }
 
+if (happiness <= 0) and instance_exists(obj_village1) { // Check if happiness is at 0
+	happiness = 0 // Set happiness to 0
+}
+
 	
