@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_cloudMaker",
+    "path": "sprites/spr_cloudMaker/spr_cloudMaker.yy",
+  },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }
