@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "GrassBase",
-  "bbox_bottom": 29,
+  "bbox_bottom": 9,
   "bbox_left": 0,
-  "bbox_right": 29,
+  "bbox_right": 9,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a97207e0-b8b4-4bf9-9b32-e68ad3f414b7",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d7bc737f-31b6-4cff-bbe6-fc155efe1c9c",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 30,
+  "height": 10,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"dd2cb66a-2694-4cee-a12a-236ff1eece3f","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"f25ba89e-3af5-4e37-95d7-407b1f635a2d","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"a97207e0-b8b4-4bf9-9b32-e68ad3f414b7","path":"sprites/GrassBase/GrassBase.yy",},},},"Disabled":false,"id":"57f112a5-ef38-4392-9b92-f7c593d6d7ca","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"d7bc737f-31b6-4cff-bbe6-fc155efe1c9c","path":"sprites/GrassBase/GrassBase.yy",},},},"Disabled":false,"id":"0b536ff5-cf88-417b-9b19-013ea3f65130","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 30,
+  "width": 10,
 }

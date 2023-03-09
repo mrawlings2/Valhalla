@@ -10,7 +10,7 @@ if (meatball_col >= evol) { // Check how many meatballs village has gotten
 //	instance_create_layer(x, y, "Instances", obj_house1) // Upgrade to house
 //	instance_destroy(obj_villageRiot1) // Destroy riot
 //	instance_destroy(obj_village1) // Destroy village
-	if (frameNum < 2) then 
+	if (frameNum < 2) then //resets variables and increments existing caps and values
 		frameNum += 1;
 		meatball_col = 0;
 		evol += 5;
