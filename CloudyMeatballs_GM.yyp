@@ -34,6 +34,7 @@
   },
   "resources": [
     {"id":{"name":"obj_block1","path":"objects/obj_block1/obj_block1.yy",},},
+    {"id":{"name":"spr_infrastructureTilez","path":"sprites/spr_infrastructureTilez/spr_infrastructureTilez.yy",},},
     {"id":{"name":"spr_tempMeatball","path":"sprites/spr_tempMeatball/spr_tempMeatball.yy",},},
     {"id":{"name":"obj_villageRiot3","path":"objects/obj_villageRiot3/obj_villageRiot3.yy",},},
     {"id":{"name":"obj_cloudMaker","path":"objects/obj_cloudMaker/obj_cloudMaker.yy",},},
@@ -43,6 +44,7 @@
     {"id":{"name":"obj_villageRiot5","path":"objects/obj_villageRiot5/obj_villageRiot5.yy",},},
     {"id":{"name":"obj_village4","path":"objects/obj_village4/obj_village4.yy",},},
     {"id":{"name":"obj_block3","path":"objects/obj_block3/obj_block3.yy",},},
+    {"id":{"name":"InfrastructureCollection","path":"tilesets/InfrastructureCollection/InfrastructureCollection.yy",},},
     {"id":{"name":"obj_block4","path":"objects/obj_block4/obj_block4.yy",},},
     {"id":{"name":"GrassBase","path":"sprites/GrassBase/GrassBase.yy",},},
     {"id":{"name":"obj_village2","path":"objects/obj_village2/obj_village2.yy",},},
