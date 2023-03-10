@@ -68,3 +68,8 @@ if (global.meatball_Counter >= meatballs) { // Check to see if cloud has run out
 	instance_destroy(obj_cloud) // Destroy cloud
 }
 }
+
+if(global.menustartclosed == false && freshStart ){
+	freshStart = false;
+path_start(Path1, 3, path_action_restart, true);
+}

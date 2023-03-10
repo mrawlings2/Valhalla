@@ -17,6 +17,7 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"Path1","order":15,"path":"paths/Path1/Path1.yy",},
     {"name":"obj_block1","order":23,"path":"objects/obj_block1/obj_block1.yy",},
     {"name":"spr_meatballCounter","order":10,"path":"sprites/spr_meatballCounter/spr_meatballCounter.yy",},
     {"name":"spr_infrastructureTilez","order":8,"path":"sprites/spr_infrastructureTilez/spr_infrastructureTilez.yy",},

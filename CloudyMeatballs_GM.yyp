@@ -34,6 +34,7 @@
     "IDEVersion": "2023.2.0.71",
   },
   "resources": [
+    {"id":{"name":"Path1","path":"paths/Path1/Path1.yy",},},
     {"id":{"name":"obj_block1","path":"objects/obj_block1/obj_block1.yy",},},
     {"id":{"name":"spr_meatballCounter","path":"sprites/spr_meatballCounter/spr_meatballCounter.yy",},},
     {"id":{"name":"spr_infrastructureTilez","path":"sprites/spr_infrastructureTilez/spr_infrastructureTilez.yy",},},
