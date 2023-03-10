@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 if (happiness <= 0) and (riot_counter <= 1) { // Check if happiness is all the way down and riot count
-	instance_create_layer(x, y, "Instances", obj_villageRiot4) 
+	instance_create_layer(x+40, y+100, "Instances", obj_villageRiot4) 
 	obj_villageRiot4.riot_damage += (frameNum *0.2);// Create riot4
 	riot_counter += 1 // Increase riot count by 1
 }
