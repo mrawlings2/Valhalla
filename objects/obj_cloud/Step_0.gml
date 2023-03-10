@@ -9,6 +9,8 @@ if(x = sprite_width/2 or x = ( room_width - sprite_width)){hspeed = 0}// zeros o
 if(y = sprite_height/2 or y = ( room_height - sprite_height)){vspeed = 0}//zeros out vspeed if hits border(top/bottom)
 
 
+if(!instance_exists(obj_button)){
+
 if (keyboard_check(vk_left)) {
 	if(hspeed> 0){ // checks if the cloud is going in the opposite direction as input
 	hspeed -=.25//if so, allow for the player to need to hold it for a slow counter change in direction
@@ -64,4 +66,5 @@ if ((canShoot == true) and (keyboard_check_pressed(vk_space))) { // Check to see
 
 if (global.meatball_Counter >= meatballs) { // Check to see if cloud has run out of meatballs
 	instance_destroy(obj_cloud) // Destroy cloud
+}
 }
