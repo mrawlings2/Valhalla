@@ -1,10 +1,9 @@
 // Script assets have changed for v2.3.0 see
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
 function scr_seasons(){ // Function to perform season changes
-	global.season = 0 // Set season initially to 0
-	global.seasonSwitch = false // Set season switch to false
 	summerHealthDecrease = 5 // Summer health decrease boost
-	windDirection = false // Variable for wind direction choice
+	xMod = 0 // Var to modify x pos
+	yMod = 0 // Var to modify y pos
 	while(instance_exists(obj_cloudMaker)) { // Loop for the seasons
 		alarm_set(0, 2000) // Set alarm
 		while (season == 0 and seasonSwitch == false) { //Season is spring
@@ -34,8 +33,16 @@ function scr_seasons(){ // Function to perform season changes
 			obj_village5.health_dplt = obj_village5.health_dplt - summerHealthDecrease
 			obj_village6.health_dplt = obj_village6.health_dplt - summerHealthDecrease
 			if (windDirection == false) { // Pick direction for wind
-				
+				xMod = choose(-.15, 0, .15) // Choose random direction for x
+				yMod = choose(-.15, 0, .15) // Choose random direction for y
+				if (xMod == 0 and yMod == 0) { // Check wind directions
+					xMod = .15
+				}
+				obj_cloud.direction = direction(xMod, yMod) // Set direction of wind
+				windDirection = true // Direction choosen
 			}
+			obj_cloud.x += 2
+			obj_cloud.y += 2
 		}
 		
 		while (season == 3 and seasonSwitch == false) { // Season is winter
@@ -45,5 +52,12 @@ function scr_seasons(){ // Function to perform season changes
 			obj_village5.health_dplt = obj_village5.health_dplt - summerHealthDecrease
 			obj_village6.health_dplt = obj_village6.health_dplt - summerHealthDecrease
 		}
+		
+		while (season == 4 and seasonSwitch == false) {
+			season = 0
+		}
+		windDirection = false // Variable for wind direction choice
+		season += 1 // increment seasons
+		seasonSwitch = false // var for switching seasons
 	}
 }
