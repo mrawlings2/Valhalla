@@ -1,1 +1,1 @@
-speed = 0 // Stop the riot at cloudmaker
+if(obj_village3.happiness > 0) then speed = 0.5 else speed = 0 // Stop the riot at cloudmaker
