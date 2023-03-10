@@ -6,4 +6,5 @@ if (obj_cloudMaker.happiness <= 0) {
 
 if (not instance_exists(obj_cloud) and (obj_cloudMaker.happiness > 0)) { // Check if there is no cloud and that the cloud maker still has health
 	instance_create_layer(x, y, "Instances", obj_cloud)// Create a cloud
+	global.meatball_Counter = 0;
 }

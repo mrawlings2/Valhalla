@@ -17,6 +17,7 @@
   ],
   "ResourceOrderSettings": [
     {"name":"obj_block1","order":23,"path":"objects/obj_block1/obj_block1.yy",},
+    {"name":"spr_meatballCounter","order":10,"path":"sprites/spr_meatballCounter/spr_meatballCounter.yy",},
     {"name":"spr_infrastructureTilez","order":8,"path":"sprites/spr_infrastructureTilez/spr_infrastructureTilez.yy",},
     {"name":"spr_tempMeatball","order":4,"path":"sprites/spr_tempMeatball/spr_tempMeatball.yy",},
     {"name":"obj_villageRiot3","order":9,"path":"objects/obj_villageRiot3/obj_villageRiot3.yy",},

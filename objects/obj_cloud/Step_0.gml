@@ -55,13 +55,13 @@ vspeed -= (sign(vspeed ))/4;
 
 if ((canShoot == true) and (keyboard_check_pressed(vk_space))) { // Check to see if canShoot is true and if space bar is pressed
 	instance_create_layer(x+38, y, "Instances", obj_meatball) // Create meatball
-	meatball_Counter += 1 // Update meatball counter
+	global.meatball_Counter += 1 // Update meatball counter
 	canShoot = false // Set canShoot to false
 	alarm[0] = 15 // Set alarm 
 }
 
 
 
-if (meatball_Counter >= meatballs) { // Check to see if cloud has run out of meatballs
+if (global.meatball_Counter >= meatballs) { // Check to see if cloud has run out of meatballs
 	instance_destroy(obj_cloud) // Destroy cloud
 }

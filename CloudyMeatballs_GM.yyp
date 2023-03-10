@@ -34,6 +34,7 @@
   },
   "resources": [
     {"id":{"name":"obj_block1","path":"objects/obj_block1/obj_block1.yy",},},
+    {"id":{"name":"spr_meatballCounter","path":"sprites/spr_meatballCounter/spr_meatballCounter.yy",},},
     {"id":{"name":"spr_infrastructureTilez","path":"sprites/spr_infrastructureTilez/spr_infrastructureTilez.yy",},},
     {"id":{"name":"spr_tempMeatball","path":"sprites/spr_tempMeatball/spr_tempMeatball.yy",},},
     {"id":{"name":"obj_villageRiot3","path":"objects/obj_villageRiot3/obj_villageRiot3.yy",},},
