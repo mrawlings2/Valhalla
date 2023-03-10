@@ -1,2 +1,2 @@
-obj_village1.happiness += 20 // Increase village happiness
+obj_village1.happiness += happy_increase // Increase village happiness
 instance_destroy(obj_meatball) // Destroy meatball

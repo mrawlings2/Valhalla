@@ -49,6 +49,7 @@
     {"id":{"name":"obj_villageRiot2","path":"objects/obj_villageRiot2/obj_villageRiot2.yy",},},
     {"id":{"name":"fontLarge","path":"fonts/fontLarge/fontLarge.yy",},},
     {"id":{"name":"obj_village1","path":"objects/obj_village1/obj_village1.yy",},},
+    {"id":{"name":"scr_seasons","path":"scripts/scr_seasons/scr_seasons.yy",},},
     {"id":{"name":"spr_village","path":"sprites/spr_village/spr_village.yy",},},
     {"id":{"name":"obj_villageRiot5","path":"objects/obj_villageRiot5/obj_villageRiot5.yy",},},
     {"id":{"name":"obj_village4","path":"objects/obj_village4/obj_village4.yy",},},

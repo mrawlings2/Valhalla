@@ -29,6 +29,7 @@
     {"name":"obj_villageRiot2","order":8,"path":"objects/obj_villageRiot2/obj_villageRiot2.yy",},
     {"name":"fontLarge","order":47,"path":"fonts/fontLarge/fontLarge.yy",},
     {"name":"obj_village1","order":2,"path":"objects/obj_village1/obj_village1.yy",},
+    {"name":"scr_seasons","order":8,"path":"scripts/scr_seasons/scr_seasons.yy",},
     {"name":"spr_village","order":2,"path":"sprites/spr_village/spr_village.yy",},
     {"name":"obj_villageRiot5","order":25,"path":"objects/obj_villageRiot5/obj_villageRiot5.yy",},
     {"name":"obj_village4","order":12,"path":"objects/obj_village4/obj_village4.yy",},
