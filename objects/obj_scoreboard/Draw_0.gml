@@ -5,13 +5,13 @@ draw_healthbar(8,8,256,32,obj_cloudMaker.happiness, c_black, c_red, c_blue, 0, t
 
 //timer display settings (to keep same # of digits throughout operation) 
 if seconds < 10 and minutes < 10{
-	draw_text(8, 88, "0" + string(minutes) + ": 0" + string(seconds));
+	draw_text(8, 88, "0" + string(minutes) + " : 0" + string(seconds));
 } else if minutes < 10 {
-	draw_text(8, 88, "0" + string(minutes) + ":" + string(seconds));
+	draw_text(8, 88, "0" + string(minutes) + " : " + string(seconds));
 } else if seconds < 10 {
-	draw_text(8, 88, string(minutes) + ": 0" + string(seconds));
+	draw_text(8, 88, string(minutes) + " : 0" + string(seconds));
 } else {
-	draw_text(8, 88, string(minutes) + ":" + string(seconds));
+	draw_text(8, 88, string(minutes) + " : " + string(seconds));
 }
 //insert score code here
 //draw_text(8, 247, (score))
