@@ -8,7 +8,7 @@ var _height = 100;
 if(global.menustartclosed == false){
 	buttonCreate(100,300,_width, _height, "Play", on_click_play);
 }else{
-	buttonCreate(100,200,_width, _height, "Resume", on_click_resume);
+	buttonCreate(100,300,_width, _height, "Resume", on_click_resume);
 }
 
 //create the credits button

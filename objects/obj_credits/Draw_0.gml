@@ -16,4 +16,4 @@ draw_text_color(x, y +160,"           - Buttons GUI | GameMaker Studio 2 [ UI Se
 draw_text_color(x, y +180,"           - https://youtu.be/jsWPUuwB1RQ", c_black,c_black,c_black,c_black,1); //youtube video link
 draw_text_color(x, y +200,"Art created in Piskel", c_black,c_black,c_black,c_black,1);
 draw_text_color(x, y +220,"Music made with 'student standard liscence' Ableton Live 10", c_black,c_black,c_black,c_black,1);
-draw_text_color(x, y +120,"Game created with GameMaker Studio 2", c_black,c_black,c_black,c_black,1);
+draw_text_color(x, y +240,"Game created with GameMaker Studio 2", c_black,c_black,c_black,c_black,1);
