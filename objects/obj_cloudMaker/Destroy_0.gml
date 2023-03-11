@@ -1,4 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-instance_destroy(obj_cloudMaker) // Destroy cloud maker
-game_restart() // Restart game
+global.started = false
+instance_create_layer(608, 192, "Instances", obj_FinalScore)
+//game_restart() // Restart game

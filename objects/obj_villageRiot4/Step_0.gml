@@ -1,3 +1,4 @@
+if (instance_exists(obj_cloudMaker)) {
 if(obj_village4.happiness > 0) { //Check if village4 has happiness
 	direction = point_direction(x, y, obj_block4.x, obj_block4.y) // Set direction to the village
 }
@@ -13,4 +14,5 @@ if(not place_empty(x, y, obj_cloudMaker)) { // Check for collision with cloudmak
 		obj_cloudMaker.happiness -= riot_damage // Take away riot damage from happiness
 		alarm[0] = 30//Set alarm
 	}
+}
 }

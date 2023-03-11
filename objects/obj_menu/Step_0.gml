@@ -8,6 +8,8 @@ if((keyboard_check_pressed(ord("M")) || keyboard_check_pressed(vk_escape) )&& gl
 
 if(global.menuOpen){
 event_user(0);
-}else{
+}else if (not global.menuOpen and instance_exists(obj_cloudMaker)){
 event_user(1);
+} else {
+	event_user(2);
 }

@@ -1,5 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
+if (instance_exists(obj_cloudMaker)) {
 draw_healthbar(8,8,256,32,obj_cloudMaker.happiness, c_black, c_red, c_blue, 0, true, true) // Draw healthbar for cloudmaker
 //draw_healthbar(100, 100, 200, 200, obj_village1.happiness, c_black, c_red, c_blue, 0, true, true) // Draw healthbar of village
 
@@ -18,3 +19,4 @@ if seconds < 10 and minutes < 10{
 
 //insert meatball counter here
 draw_sprite(spr_meatballCounter, (4-global.meatball_Counter), 8, 48);
+}

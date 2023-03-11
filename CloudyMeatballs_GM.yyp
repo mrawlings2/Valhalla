@@ -73,6 +73,7 @@
     {"id":{"name":"obj_menuText","path":"objects/obj_menuText/obj_menuText.yy",},},
     {"id":{"name":"obj_village5","path":"objects/obj_village5/obj_village5.yy",},},
     {"id":{"name":"on_click_resume","path":"scripts/on_click_resume/on_click_resume.yy",},},
+    {"id":{"name":"obj_FinalScore","path":"objects/obj_FinalScore/obj_FinalScore.yy",},},
     {"id":{"name":"spr_SummerTilez","path":"sprites/spr_SummerTilez/spr_SummerTilez.yy",},},
     {"id":{"name":"obj_villageRiot4","path":"objects/obj_villageRiot4/obj_villageRiot4.yy",},},
     {"id":{"name":"on_click_credit","path":"scripts/on_click_credit/on_click_credit.yy",},},
