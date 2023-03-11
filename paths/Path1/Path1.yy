@@ -5,8 +5,8 @@
   "closed": true,
   "kind": 1,
   "parent": {
-    "name": "CloudyMeatballs_GM",
-    "path": "CloudyMeatballs_GM.yyp",
+    "name": "Paths",
+    "path": "folders/Paths.yy",
   },
   "points": [
     {"speed":100.0,"x":928.0,"y":480.0,},

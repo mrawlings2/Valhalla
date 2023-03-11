@@ -8,8 +8,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "villages",
+    "path": "folders/Objects/villages.yy",
   },
   "parentObjectId": {
     "name": "obj_village1",

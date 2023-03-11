@@ -14,8 +14,8 @@
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_villageRiot1","path":"objects/obj_villageRiot1/obj_villageRiot1.yy",},"propertyId":{"name":"riot_damage","path":"objects/obj_villageRiot1/obj_villageRiot1.yy",},"value":"0.5",},
   ],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Riots",
+    "path": "folders/Objects/Riots.yy",
   },
   "parentObjectId": {
     "name": "obj_villageRiot1",
