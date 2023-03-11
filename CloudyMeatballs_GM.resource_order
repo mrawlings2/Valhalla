@@ -66,6 +66,7 @@
     {"name":"spr_cloud","order":1,"path":"sprites/spr_cloud/spr_cloud.yy",},
     {"name":"obj_village3","order":2,"path":"objects/obj_village3/obj_village3.yy",},
     {"name":"get_hover","order":1,"path":"scripts/get_hover/get_hover.yy",},
+    {"name":"snd_Squish","order":1,"path":"sounds/snd_Squish/snd_Squish.yy",},
     {"name":"on_click_endcredit","order":6,"path":"scripts/on_click_endcredit/on_click_endcredit.yy",},
   ],
 }
